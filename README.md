@@ -19,6 +19,6 @@ By structuring the data effectively and optimizing queries, this project enhance
 
 ## ERD Diagram
 
-![image](https://github.com/user-attachments/assets/e09a2cb0-9fce-41af-bf42-02543da9ee14)
+![image](https://github.com/user-attachments/assets/eda05fdf-04e7-44da-925c-9148bb374a03)
 
 
