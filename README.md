@@ -18,7 +18,6 @@ This project involves the design and implementation of a **relational database**
 By structuring the data effectively and optimizing queries, this project enhances the **efficiency** of diving holiday bookings, ensuring faster processing and smoother user experiences.
 
 ## ERD Diagram
-![image](https://github.com/user-attachments/assets/4a1a25d1-139b-4627-bc17-0d964e53b7d2)
 
 ![image](https://github.com/user-attachments/assets/e09a2cb0-9fce-41af-bf42-02543da9ee14)
 
