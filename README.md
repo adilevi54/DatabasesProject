@@ -1,4 +1,4 @@
-# Eco-Tourism Ordering System Management Project for Database 101 course
+# Eco-Tourism Ordering System Management Project 
 
 ## Project Overview
 This project involves the design and implementation of a **relational database** to efficiently manage diving holiday bookings. It ensures structured data storage, facilitates smooth transaction processing, and optimizes data retrieval.
